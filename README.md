@@ -33,11 +33,11 @@ To get to part 2 use
 ## module_1.py
 - Reads URLs from a test file
 
--Args:
-    -article_files: Path to the file containing URLs
+- Args:
+    - article_files: Path to the file containing URLs
 
--Returns:
-    -A list of URLs to be scraped
+- Returns:
+    - A list of URLs to be scraped
 
 ## module_2.py
 - Uses the requests library
@@ -48,5 +48,5 @@ To get to part 2 use
 
 - Downloads articles, extracts content, and saves to Data/processed folder
 
--Args:
+- Args:
     urls: A list of URLs to scrape
