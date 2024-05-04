@@ -9,8 +9,7 @@
 ## requirements.yml
 - Created a base in conda called article_reader with python version 3.10.11
 - Activated the environment
-- Installing pandas package 2.1.4 with numpy 1.26.3
-- Install beautifulsoup4 
+
 ###
 - Exporting article_reader environment as requirements.yml
 - Moved into Project-1 folder
